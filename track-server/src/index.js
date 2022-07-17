@@ -1,4 +1,5 @@
 require('./models/User');
+require('./models/Track');
 const keys = require('../.env/keys.js');
 const express = require('express');
 const mongoose = require('mongoose');
